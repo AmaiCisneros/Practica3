@@ -45,7 +45,7 @@ delay(1000); }
 ![](https://github.com/AmaiCisneros/Practica3/blob/main/1.png)
 
 - 3.Realizamos la conexion de los sensores DHT11 y  ESP32 con el sensor LDC 16X2 (12C) y agregamos VCC Symbol y GND Symbol como se muestra en la siguente imagen.
-![]( )
+![](https://github.com/AmaiCisneros/Practica3/blob/main/2.png)
 
 -4. Iniciamos el simulador.
     -Se proyectan los datos en el monitor serial.
