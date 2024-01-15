@@ -52,5 +52,5 @@ delay(1000); }
     -Se observan los resultados en la pantalla LCD.
     
 Se muestra en la siguente imagen.
-![]( )
+![](https://github.com/AmaiCisneros/Practica3/blob/main/3.png)
   
